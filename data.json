@@ -1,0 +1,11 @@
+{
+  "allowed_emails": [
+    "tanwardev41@gmail.com"
+  ],
+  "pdfs": [
+    {
+      "name": "Document 1",
+      "url": "https://drive.google.com/uc?export=download&id=1Jq_ebro6Lhfms6r5KwDZuT3OTtc0vUKs"
+    }
+  ]
+}
