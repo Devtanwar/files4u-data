@@ -1,9 +1,9 @@
 {
-  "allowed_emails": ["tanwardev41@gmail.com"],
+  "email": ["tanwardev41@gmail.com"],
   "pdfs": [
     {
-      "title": "Car sales file",
-      "link": "https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/uc?export=download&id=1QNr9fYTYETmX2fcLZ9-XKQZYWx_pQalf"
+      "name": "Car sales file",
+      "url": "https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/uc?export=download&id=1QNr9fYTYETmX2fcLZ9-XKQZYWx_pQalf"
     }
   ]
 }
