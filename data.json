@@ -2,7 +2,7 @@
   "allowed_emails": ["tanwardev41@gmail.com"],
   "pdfs": [
     {
-      "titles": "Car sales file",
+      "Title": "Car sales file",
       "link": "https://drive.google.com/file/d/1QNr9fYTYETmX2fcLZ9-XKQZYWx_pQalf/preview"
     }
   ]
